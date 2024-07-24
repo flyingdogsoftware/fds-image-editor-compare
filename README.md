@@ -2,10 +2,10 @@
 
 # Examples
 
-https://components.pages.fdog.de/fds-image-editor-compare/
+ 
 
 ## Installation
-npm i @fds-components/fds-image-editor-compare
+npm i @fds-components-public/fds-image-editor-compare
 
 ## Usage 
 ``` html

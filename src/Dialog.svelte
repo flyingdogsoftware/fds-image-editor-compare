@@ -42,7 +42,7 @@ export function refresh() {
     </fds-image-editor-button>            
 <style>
     .btn {
-        width: 30px;
+        width: 40px;
         text-align: center;
     }
 </style>
